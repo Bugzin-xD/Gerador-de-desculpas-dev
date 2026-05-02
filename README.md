@@ -2,7 +2,7 @@
 
 > **Status do Projeto**: Em produção (com desculpas prontas para qualquer bug).
 
-Bem-vindo ao **Gerador de Desculpas Dev**! Este projeto foi criado para desenvolvedores que precisam de uma saída elegante (ou caótica) quando o código decide não cooperar. Além do gerador, incluímos a **"Extensão Top"**, que injeta um fundo binário interativo em qualquer site da web.
+Bem-vindo ao **Gerador de Desculpas Dev**! Este projeto foi criado para desenvolvedores que precisam de uma saída elegante (ou caótica) quando o código decide não cooperar. Além do gerador, incluímos a **"Extensão Hacker"**, que injeta um fundo binário interativo em qualquer site da web.
 
 ---
 
