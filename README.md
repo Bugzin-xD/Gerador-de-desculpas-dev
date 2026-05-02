@@ -1,4 +1,4 @@
-# 🟢 [Loaden TI](https://loaden.vercel.app) - Dev Excuses Toolbox 💀
+# 🟢 [Loaden TI] - Dev Excuses Toolbox 💀
 
 > **Status do Projeto**: Em produção (com desculpas prontas para qualquer bug).
 
